@@ -25,6 +25,10 @@ The project has been developed as the final project of the course in Digital Ele
 - [Pipeline](https://github.com/gaiabertolino/appunti/blob/e0571c682f588b6147e38bc18288747763bd2c2c/Relazione%20progetto%20pipeline.pdf)
 The project was developed as the final project for the course in Digital Electronics, offered during the third year of the Bachelor's degree program in Computer Engineering at the University of Calabria. It involves the creation of a pipeline circuit using VHDL.
 
+HTML
+- [TEDx Static website](https://github.com/gaiabertolino/tedxcatanzaro)
+The website was realized for the TEDx event in Catanzaro, Italy
+
 
 
 
