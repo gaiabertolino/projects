@@ -4,6 +4,10 @@ This repository houses the projects I have developed throughout my academic jour
 Python
 - [Big Data - American Flights](https://github.com/gaiabertolino/bigData)
 The project features a Python-based interface, with data processing facilitated through the Streamlit library. This enables the visualization of information extracted from a vast dataset concerning air flights, necessitating the utilization of specific big data techniques.
+- [Data Mining - Fraudulent activities](https://github.com/gaiabertolino/dataMining)
+The objective was to perform anomaly detection on a dataset of banking transactions to identify potential fraudulent activities
+- [Distributed Systems and Cloud Computing]()
+The aim of the project was to develop an online interface employing Docker, enabling users to submit datasets for the application of frequent itemset mining algorithms
 - [OOP - Polynomial simplificator](https://github.com/gaiabertolino/calcolatorePolinomiProject)
 A series of classes were implemented in Java language to facilitate polynomial simplification.
 - [OOP - BigInt](https://github.com/gaiabertolino/bigIntProject)
