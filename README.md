@@ -2,6 +2,8 @@
 This repository houses the projects I have developed throughout my academic journey in computer engineering, alongside personal undertakings.
 
 Python
+- [Artificial Intelligence - Classical, Temporal and Robotics Planning](https://github.com/gaiabertolino/artificialIntelligenceProject/)
+The project models a problem domain for a system based on autonomous agents to which classic planning, time planning and robotic planning are then applied. The scenario represents a problem of logistic organization in which a number of injured people must be reached by emergency services, which can transport various objects.
 - [Big Data - American Flights](https://github.com/gaiabertolino/bigData)
 The project features a Python-based interface, with data processing facilitated through the Streamlit library. This enables the visualization of information extracted from a vast dataset concerning air flights, necessitating the utilization of specific big data techniques.
 - [Data Mining - Fraudulent activities](https://github.com/gaiabertolino/dataMining)
