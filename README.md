@@ -4,6 +4,8 @@ This repository houses the projects I have developed throughout my academic jour
 Python
 - [Artificial Intelligence - Classical, Temporal and Robotics Planning](https://github.com/gaiabertolino/artificialIntelligenceProject/)
 The project models a problem domain for a system based on autonomous agents to which classic planning, time planning and robotic planning are then applied. The scenario represents a problem of logistic organization in which a number of injured people must be reached by emergency services, which can transport various objects.
+- [Computer vision - Cable and towers segmentation](https://github.com/gaiabertolino/computerVisionProject/tree/main)
+The project aims at training a Mask R-CNN to identify power cables within aerial photographs after a process of copy-paste data augmentation.
 - [Big Data - American Flights](https://github.com/gaiabertolino/bigData)
 The project features a Python-based interface, with data processing facilitated through the Streamlit library. This enables the visualization of information extracted from a vast dataset concerning air flights, necessitating the utilization of specific big data techniques.
 - [Data Mining - Fraudulent activities](https://github.com/gaiabertolino/dataMining)
