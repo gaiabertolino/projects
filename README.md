@@ -7,7 +7,7 @@ The project models a problem domain for a system based on autonomous agents to w
 - [Computer vision - Cable and towers segmentation](https://github.com/gaiabertolino/computerVisionProject/tree/main)
 The project trains a Mask R-CNN to identify power cables within aerial photographs after a process of copy-paste data augmentation.
 - [Big Data - American Flights](https://github.com/gaiabertolino/bigData)
-The project features a Python-based interface, where data processing is facilitated through the Streamlit library. This enables the visualization of information extracted from a vast dataset concerning air flights, which required pecific big data techniques.
+The project features a Python-based interface, where data processing is facilitated through the Streamlit library. This enables the visualization of information extracted from a vast dataset concerning air flights, which required specific big data techniques.
 - [Data Mining - Fraudulent activities](https://github.com/gaiabertolino/dataMining)
 This project performs anomaly detection on a dataset of banking transactions to identify potential fraudulent activities.
 - [Distributed Systems and Cloud Computing](https://github.com/gaiabertolino/cloudComputingProject)
